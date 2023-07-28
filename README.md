@@ -23,8 +23,7 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 
 
 ### Top Data Science Skills ⭐⭐⭐⭐⭐
-![](https://img.shields.io/static/v1?logo=Pandas&label&message=Pandas&style=for-the-badge&color=black&logoColor=6fa02c)
-![](https://img.shields.io/static/v1?logo=Numpy&label&message=Numpy&style=for-the-badge&color=black&logoColor=6fa02c)
+![](https://img.shields.io/static/v1?logo=Jupyter&label&message=Jupyter&style=for-the-badge&color=black&logoColor=F37626)
 ![](https://img.shields.io/static/v1?logo=scikitlearn&label&message=Sklearn&style=for-the-badge&color=black&logoColor=F7931E)
 ![](https://img.shields.io/static/v1?logo=Plotly&label&message=Plotly&style=for-the-badge&color=black&logoColor=3F4F75)
 ![](https://img.shields.io/static/v1?logo=Plotly&label&message=Dash&style=for-the-badge&color=black&logoColor=3F4F75)
