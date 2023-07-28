@@ -14,7 +14,7 @@ I am very much intrested in collaboration in the following espcially in the foll
 
 I am also open for remote work in similar topics as above, please see my [fiverr profile](https://www.fiverr.com/shai_sussman), and feel free to contact [me](mailto:shai.sussman@gmail.com)!
 
-### Top GIS Skills ⭐⭐⭐⭐⭐
+### Top GIS Skills ⭐️⭐️⭐️⭐️⭐️
 ![](https://img.shields.io/static/v1?logo=QGIS&label&message=QGIS&style=for-the-badge&color=black&logoColor=6fa02c)
 ![](https://img.shields.io/static/v1?logo=ArcGIS&label&message=ArcGIS%20JS%20API&style=for-the-badge&color=black&logoColor=2C7AC3)
 ![](https://img.shields.io/static/v1?logo=maplibre&label&message=maplibre&style=for-the-badge&color=black&logoColor=3168b1)
@@ -22,7 +22,7 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 ![](https://img.shields.io/static/v1?label&message=Geopandas&style=for-the-badge&color=black&logoColor=3168b1)
 
 
-### Top Data Science Skills ⭐⭐⭐⭐⭐
+### Top Data Science Skills ⭐️⭐️⭐️⭐️⭐️
 ![](https://img.shields.io/static/v1?logo=Jupyter&label&message=Jupyter&style=for-the-badge&color=black&logoColor=F37626)
 ![](https://img.shields.io/static/v1?logo=Pandas&label&message=Pandas&style=for-the-badge&color=black&logoColor=150458)
 ![](https://img.shields.io/static/v1?logo=Numpy&label&message=Numpy&style=for-the-badge&color=black&logoColor=013243)
