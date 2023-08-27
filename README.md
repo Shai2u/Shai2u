@@ -34,7 +34,7 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 
 
 <aside>
-### 🗺️ Want to work together?
+###🗺️ Want to work together?
 
 ---
 
