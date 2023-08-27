@@ -1,8 +1,8 @@
 
 ## Shai Sussman
 
-Hello There!
-I am a GIS developer, as well as a Data Scientist avid. My passion lies at the intersection of geography, data, and technology, which allows me to approach projects with a holistic perspective and with a unique set of skills.
+### Hi! I'm a GIS developer, as well as a Data Scientist avid.
+My passion lies at the intersection of geography, data, and technology, which allows me to approach projects with a holistic perspective and with a unique set of skills.
 I have a strong background in Python development, web maps, both front and backend and GIS Development including creation of QGIS plugins.
 
 I am very much intrested in collaboration in the following espcially in the following topics:
