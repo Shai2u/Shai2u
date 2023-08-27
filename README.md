@@ -32,9 +32,16 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 ![](https://img.shields.io/static/v1?logo=postgresql&label&message=SQL&style=for-the-badge&color=black&logoColor=4169E1)
 ![](https://img.shields.io/static/v1?logo=Ubuntu&label&message=Ubuntu&style=for-the-badge&color=black&logoColor=E95420)
 
-### Follow me
+
+<aside>
+🗺️ Want to work together?
+
+---
+
 [Gallery portfolio](https://shai2u.github.io/Shai2u/portfolio/)
 
 [![](https://img.shields.io/static/v1?logo=googlescholar&label&message=Google%20Scholar&style=for-the-badge&color=black&logoColor=4285F4)](https://scholar.google.com/citations?user=U8sY2LQAAAAJ&hl=en)
 [![](https://img.shields.io/static/v1?logo=linkedin&label&message=Linkedin&style=for-the-badge&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/shai-sussman-07b6019/)
 [![](https://img.shields.io/static/v1?logo=fiverr&label&message=fiverr&style=for-the-badge&color=black&logoColor=1DBF73)](https://www.fiverr.com/shai_sussman)
+
+</aside>
