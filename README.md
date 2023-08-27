@@ -33,10 +33,7 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 ![](https://img.shields.io/static/v1?logo=Ubuntu&label&message=Ubuntu&style=for-the-badge&color=black&logoColor=E95420)
 
 
-<aside>
-###🗺️ Want to work together?
-
----
+### Want to work together?
 
 [Gallery portfolio](https://shai2u.github.io/Shai2u/portfolio/)
 
@@ -44,4 +41,3 @@ I am also open for remote work in similar topics as above, please see my [fiverr
 [![](https://img.shields.io/static/v1?logo=linkedin&label&message=Linkedin&style=for-the-badge&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/shai-sussman-07b6019/)
 [![](https://img.shields.io/static/v1?logo=fiverr&label&message=fiverr&style=for-the-badge&color=black&logoColor=1DBF73)](https://www.fiverr.com/shai_sussman)
 
-</aside>
