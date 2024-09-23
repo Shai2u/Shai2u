@@ -1,9 +1,12 @@
 ## Shai Sussman
 
-### Hi! I'm a GIS developer, as well as a Data Scientist avid.
+### Geospatial Data Analysis & Open Source GIS developer
 
-My passion lies at the intersection of geography, data, and technology, which allows me to approach projects with a holistic perspective and with a unique set of skills.
-I have a strong background in Python development, web maps, both front and backend and GIS Development including creation of QGIS plugins.
+I specialize in Geospatial open-source development, with a strong focus on geospatial data analysis and GIS solutions, including plugin development (QGIS) and mapping websites using technologies like React and MapLibre. I have a solid foundation in Python programming and am familiar with cloud platforms such as AWS, as well as Linux-based systems, particularly Ubuntu. Additionally, I bring experience in applying machine learning and neural networks within the geographic domain to drive data-driven solutions.
+
+I’m currently focusing on expanding my expertise in cloud technologies and GIS web development, aiming to create solutions that complement GIS data analysis and enhance data model frameworks.
+
+I am eager to take on opportunities related to geospatial data analysis, GIS web development, open-source projects, and cloud-based solutions. I’m open to collaborating on projects that leverage my skills in Python, machine learning, and GIS to develop innovative and impactful solutions.
 
 I am very much intrested in collaboration in the following espcially in the following topics:
 
