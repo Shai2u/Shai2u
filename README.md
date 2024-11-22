@@ -2,15 +2,19 @@
 
 ### Data Scientist and GIS Developer/Analyst
 
-I specialize in geospatial development and analysis (GIS), and in recent years, I have transitioned into the field of Data Science. My experience in geospatial data analysis, spatial modeling, and GIS solutions has given me a strong foundation to apply data science techniques like machine learning, data modeling, and statistical analysis. I am eager to use my unique expertise to solve complex problems and create impactful, data-driven solutions.
-Key Experience:
+I have a diverse GIS background, with experience spanning public transportation, academic research, freelance work, large corporations, and government projects. This broad expertise in development and analysis has naturally led to my transition into Data Science.
+
+In addition to my analytical Data Science experience, I also bring web development skills (Back/Front end) and a solid understanding of Linux systems (Ubuntu). These capabilities allow me to prototype, build, and deploy impactful solutions efficiently, bridging GIS and Data Science with innovative web applications.
+
+Passionate about bridging the gap between modeling, prototyping, and deployment, I am eager to apply my expertise in Data Science, GIS, and web development to create meaningful, high-impact solutions.
+
+### Key Skils:
 
 - Machine Learning & Data Science: Applied machine learning and neural networks within the geographic domain to drive data-driven solutions, and now expanding into broader Data Science challenges.
 - Open Source GIS Solutions & Development: Expertise in geospatial data analysis, GIS plugin development (QGIS), and building mapping websites with technologies like React and MapLibre, GeoServer.
 - Python Programming: Strong proficiency in Python, with experience in data manipulation, automation, and analysis.
 - ESRI ArcGIS: Extensive experience working with ESRI ArcGIS including online, Expeirence, arcade, Python/Javascript API
 - Cloud & Linux Technologies: Familiar with AWS cloud platforms and Linux-based systems (especially Ubuntu), leveraging these tools for data management and analytics.
-- I am actively seeking opportunities where I can apply my expertise in Data Science across the full spectrum of development—from designing impactful data models and building innovative prototypes to deploying solutions that address real-world challenges. Driven by a passion for continuous learning and growth, I am eager to contribute to meaningful projects, collaborate with dynamic teams, and leverage my skills to deliver high-impact, practical results.
 
 I am also open for remote work in similar topics as above, please see my [fiverr profile](https://www.fiverr.com/shai_sussman), and feel free to contact [me](mailto:shai.sussman@gmail.com)!
 
